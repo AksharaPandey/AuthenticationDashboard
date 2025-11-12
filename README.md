@@ -1,8 +1,8 @@
 # Welcome to the mini project
 
-## Project info
-
-**URL**: 
+## Project info: 
+ 
+**URL**: https://authentication-dashboard-cyan.vercel.app
 
 Follow these steps:
 
