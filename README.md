@@ -63,7 +63,8 @@ Clone the project to your local machine:
 ```bash
 git clone [https://github.com/AksharaPandey/AuthenticationDashboard.git](https://github.com/AksharaPandey/AuthenticationDashboard.git)
 cd AuthenticationDashboard
+___
+
+```
 
 
-```bash
-npm i
