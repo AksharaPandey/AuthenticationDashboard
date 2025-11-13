@@ -47,15 +47,6 @@ This project leverages a high-performance, modern front-end stack:
 
 ---
 
-## 🚀 Getting Started
-
-Follow these steps to set up the project locally for development.
-
-### Prerequisites
-
-* **Node.js** (v14+)
-* **npm** or **Yarn**
-
 
 
 
