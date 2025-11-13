@@ -33,7 +33,7 @@ This project leverages a high-performance, modern front-end stack:
 ## ✨ Key Features
 
 ### **Role-Based Access Control (RBAC) Interface**
-* **Dynamic Role Visualization:** Clear interface for viewing and managing different user roles (e.g., `Admin`, `Editor`, `Viewer`).
+* **Dynamic Role Visualization:** Clear interface for viewing and managing different user roles (e.g., `User`, `Admin`).
 * **Permission Mapping:** UI to visualize which specific permissions are assigned to each role.
 * **User-Role Assignment:** Simple mechanisms to assign, change, or revoke roles for any user account.
 
@@ -56,15 +56,6 @@ Follow these steps to set up the project locally for development.
 * **Node.js** (v14+)
 * **npm** or **Yarn**
 
-### 1. Clone the Repository
 
-Clone the project to your local machine:
-
-```bash
-git clone [https://github.com/AksharaPandey/AuthenticationDashboard.git](https://github.com/AksharaPandey/AuthenticationDashboard.git)
-cd AuthenticationDashboard
-___
-
-```
 
 
